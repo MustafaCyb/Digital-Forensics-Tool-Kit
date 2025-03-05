@@ -1,0 +1,13 @@
+Pillow
+customtkinter
+scapy
+pyshark
+requests
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+hachoir
+pefile
+psutil
+geoip2
