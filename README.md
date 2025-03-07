@@ -75,10 +75,11 @@ graph LR
 
 ```bash  
 # Full installation command sequence  
-python3 -m venv forensic_env && \  
-source forensic_env/bin/activate && \  
-python3 -m pip install -r requirements.txt && \  
-sudo -E python3 "Main GUI.py"  
+sudo su
+python3 -m venv forensic_env &&   
+source forensic_env/bin/activate &&   
+python3 -m pip install -r requirements.txt &&   
+python3 "Main GUI.py"  
 ```
 
 ---
