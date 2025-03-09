@@ -15,6 +15,8 @@
 | Metadata Extraction | ✅ Stable | 🔍 |  
 | Partition Disk Imaging | ⚠️ Unstable | 💾 |  
 
+Note:  **⚠️ Download The GeoLite2-City.mmdb Database separated please.**
+
 ---
 
 ## 🌐 Cross-Platform Support  
@@ -119,8 +121,8 @@ python3 "Main GUI.py"
 ---
 
 ## 📜 Project Notes  
-> "This toolkit demonstrates core forensic capabilities through Python integration. While functional, treat it as educational material rather than enterprise-grade software."  
- 
+> "This toolkit demonstrates core forensic capabilities through Python integration. While functional, treat it as educational material rather than enterprise-grade software."
+
 
 ---
 
